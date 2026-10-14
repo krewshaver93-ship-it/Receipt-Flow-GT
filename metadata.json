@@ -1,0 +1,6 @@
+{
+  "name": "ReceiptFlow",
+  "description": "Production-ready Google Workspace expense management and receipt capture application with fast OCR extraction, duplicate detection, and Google Sheets sync.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
